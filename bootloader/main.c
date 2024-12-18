@@ -39,7 +39,6 @@ EFI_STATUS boot_entry(EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable) {
     // Print a welcome message.
     printf("Hello, this is an epic UEFI bootloader!\n");
 
-    // Main loop.
     while(1) {
         // do nothing.
     }

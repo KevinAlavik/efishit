@@ -1,5 +1,6 @@
 *.o
 *.img
+*.efi
 /bin
 /.cache
 /deps
